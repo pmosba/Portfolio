@@ -1,0 +1,1 @@
+ In this project, I loaded a ResNet50 model into Jupyter Notebook and performed image classification on five images found on ShutterStock. In addition, I also tested the model's level of accuracy in classifying the images. 

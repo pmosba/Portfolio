@@ -1,0 +1,1 @@
+In this project, I was able to analyze the relationship between race and the likelihood of contracting COVID-19. I also analyzed the relationship of these two factors with poverty percentages seen within each race. These relationships were examined through correlations.

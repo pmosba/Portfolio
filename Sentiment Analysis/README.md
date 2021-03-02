@@ -1,0 +1,1 @@
+In this project, I created a program that analyzed text within a CSV file and returned a sentiment polarity score for each line. Based on this, a function was created to either label the text as 'positive' or 'negative'.

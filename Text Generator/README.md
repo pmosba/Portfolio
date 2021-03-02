@@ -1,0 +1,1 @@
+For this project, I was able to implement an LSTM text generator. Using the text generator, I then trained the model on the Enron Corpus text source. With this, I generated five text examples with the model. 

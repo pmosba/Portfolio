@@ -1,0 +1,1 @@
+​In this project, I was able to examine data containing locations for Cholera deaths as well as the locations for water pumps. To show the correlation between the contaminated water from pumps and those who died from Cholera, a Voronoi diagram was created.
